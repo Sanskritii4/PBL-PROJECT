@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+networkx
+numpy
+pydantic
+matplotlib
+python-dotenv
+websockets
